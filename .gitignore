@@ -1,2 +1,10 @@
 *.class
 *.log
+*.iml
+.idea/
+.cache
+.history
+.lib/
+.idea/workspace.xml
+dist/*
+target/
